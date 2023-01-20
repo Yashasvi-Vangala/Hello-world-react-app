@@ -7,16 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hi! This is my Hello_World app for Lab01 of CS148.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          Please click <a href="https://github.com/Yashasvi-Vangala/Hello-world-react-app">here</a> to open the Github Repo
+        </p>
       </header>
     </div>
   );
